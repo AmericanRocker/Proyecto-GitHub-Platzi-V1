@@ -1,6 +1,4 @@
-Esta version de proyecto es la prueba de la importacion de archivos a nuestro primer 
-repositorio remoto, en la realizacion de este proyecto utilizaremos los comandos
-basicos de GitHub.
+
 
 Inicialmente se crea el repositorio local atraves de Git, despues de realizar pruebas
 con commits, y demas comandos basicos se procede a crear el repositorio remoto en 
