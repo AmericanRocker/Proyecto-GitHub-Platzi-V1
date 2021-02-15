@@ -47,9 +47,9 @@ body
 #footer
 {
     background: rgb(50, 163, 50);
-    color:white;
+    color:rgb(188, 253, 228);
     text-align: center; 
     border: 1px solid #DDD;
     font-weight: bold;
-    padding: 0.5em;
+    padding: 0.1em;
 }
