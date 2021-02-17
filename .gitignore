@@ -1,3 +1,4 @@
 #Ignore Image
 *.jpg
 *.png
+*.DS_Store
