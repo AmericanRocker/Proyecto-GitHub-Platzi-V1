@@ -26,7 +26,10 @@ Inicialmente se crea el repositorio local atraves de Git, despues de realizar pr
 * $git diff
 * $git show
 
-Puedes iniciar este camino increible de la programacion [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").% 
+Puedes iniciar este camino increible de la programacion [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
 
+.
+## Puedes Crear textos increibles en MARKDOWN desde:
+[**aqui**](https://pandao.github.io/editor.md/en.html)
 
 
