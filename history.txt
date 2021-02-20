@@ -20,4 +20,10 @@ prueba Rebase Master
 prueba Rebase 1
 
 prueba Rebase 2
+<<<<<<< HEAD
 >>>>>>> eac962d (Prueba Rebase v1.0)
+=======
+
+prueba Rebase 3
+
+>>>>>>> a90138a (Prueba Rebase v2.0)
