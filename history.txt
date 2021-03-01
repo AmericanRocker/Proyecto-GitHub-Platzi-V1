@@ -5,35 +5,4 @@ Esta es parte de su vida y obro maestra
 
 Ahora tengo 27 y mi deseo poder encontrar un buen empleo en colombia
 y posteriormente convertirme en fullstack developer
-<<<<<<< HEAD
-prueba Rebase Master
 
-prueba Rebase Master
-prueba Rebase Master
-
-
-
-
-
-=======
-
-prueba Rebase 1
-
-prueba Rebase 2
-<<<<<<< HEAD
->>>>>>> eac962d (Prueba Rebase v1.0)
-=======
-
-prueba Rebase 3
-
-<<<<<<< HEAD
->>>>>>> a90138a (Prueba Rebase v2.0)
-=======
-pruebar Rebase 4 
-
-
->>>>>>> f9123a3 (Prueba Rebase v3.0)
-
-prueba master v5.0
-prueba master v6.0
-prueba master v7.0
